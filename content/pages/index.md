@@ -7,7 +7,7 @@ sections:
       text: Welcome to the official website of Afridi Islam Radil.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions: []
     badge:
