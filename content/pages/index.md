@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     badge:
-      label: This is a badge
+      label: Hello!
       color: text-primary
       type: Badge
     elementId: ''
