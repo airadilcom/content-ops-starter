@@ -12,7 +12,7 @@ sections:
     actions: []
     badge:
       label: Hello!
-      color: text-light
+      color: text-primary
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
